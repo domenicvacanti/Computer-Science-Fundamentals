@@ -6,7 +6,7 @@ from urllib.parse import urlencode, quote_plus
 import json
 
 # Put your API key between the quotes in the string below
-GOOGLEAPIKEY = "AIzaSyBXtmUPL5HFqn3scgzAZLrD9OiKMuEqi9c"
+GOOGLEAPIKEY = "ADD GOOGLE API KEY HERE"
 
 # Given a string representing a location, return 2-element tuple
 # (latitude, longitude) for that location 
